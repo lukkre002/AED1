@@ -33,8 +33,8 @@ pd.DataFrame(y_train).to_csv("out/y_test.csv")
 # Zadania 3
 zad3(X_train)
 zad3(X_test)
-# zad3(y_train)
-# zad3(y_test)
+zad3(y_train)
+zad3(y_test)
 
 
 
